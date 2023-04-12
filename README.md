@@ -1,0 +1,5 @@
+- Mindful of the condition
+- Is the value in condition getting updated
+- Check everything while copying and pasting
+- 
+- subArray, consecutive 
